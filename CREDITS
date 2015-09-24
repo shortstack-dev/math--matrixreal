@@ -17,6 +17,8 @@ Many people deserve recoginition for their help with Math::MatrixReal:
 *	Mike South <msouth@fulcrum.org> for the new_from_cols() and new_from_rows() functions
 	that were integrated from Math::MatrixReal::Ext1.
 
+*	Dave Lindsey <grux12@studentbody.byu.edu> for the _cramer() function.
+
 *	Everybody involved with CPAN Testers, thanks guys/gals!
 
 
